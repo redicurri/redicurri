@@ -20,7 +20,7 @@
     <img  align="center" alt="redicurri-Js" height="auto" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <img align="center" alt="redicurri-Photoshop" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="redicurri-Canva" height="auto" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-   <img align="center" alt="redicurri-FIGMA" height="auto" width="auto" src="https://img.shields.io/badge/FIGMA-%2300C4CC.svg?&style=for-the-badge&logo=FIGMA&logoColor=white">
+   <img align="center" alt="redicurri-FIGMA" height="auto" width="auto" src="https://img.shields.io/badge/FIGMA-%#F24E1E.svg?&style=for-the-badge&logo=FIGMA&logoColor=white">
 </div>
   
   ##
