@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fdd%2F2b%2F1d%2Fdd2b1da323b0c58de5de25e9080d5b24.gif&f=1&nofb=1&ipt=f17111811023e07e8a443fcad192ea902eb03b2bb22aaadca493a2fd6aaee1ea&ipo=images&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+REDI;I'M+DEVELOPER)](https://git.io/typing-svg)
 
