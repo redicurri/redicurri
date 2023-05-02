@@ -33,6 +33,7 @@
 <img align="center" alt="SQL Workbench" height="auto" width="auto" src="https://img.shields.io/badge/SQL%20Workbench-%231E90FF.svg?&style=for-the-badge&logo=sql&logoColor=white">
  <img align="center" alt="Pandas" height="auto" width="auto" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
 <img align="center" alt="LaTeX" height="auto" width="auto" src="https://img.shields.io/badge/LaTeX-%23FF0000.svg?&style=for-the-badge&logo=LaTeX&logoColor=white">
+<img align="center" alt="OpenCV" height="auto" width="auto" src="https://img.shields.io/badge/OpenCV-%23008080.svg?&style=for-the-badge&logo=OpenCV&logoColor=white">
 
 
 
