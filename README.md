@@ -27,6 +27,8 @@
 <img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white"><br><br>
 <img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
   <img align="center" alt="XAMPP" height="auto" width="auto" src="https://img.shields.io/badge/XAMPP-%23FFA500.svg?&style=for-the-badge&logo=xampp&logoColor=white">
+  <img align="center" alt="SQL Workbench" height="auto" width="auto" src="https://img.shields.io/badge/SQL%20Workbench-%231E90FF.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">
+
 
 
 
