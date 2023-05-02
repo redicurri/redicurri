@@ -12,7 +12,7 @@
    <img align="center" alt="Python" height="auto" width="auto" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="redicurri-Mysql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img align="center" alt="redi-C++" height="auto" width="auto" src="https://img.shields.io/badge/C++-%230077B5.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="C#" height="auto" width="auto" src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img align="center" alt="C#" height="auto" width="auto" src="https://img.shields.io/badge/C%23-%237D3F98.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
 </div>
