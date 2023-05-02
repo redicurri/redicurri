@@ -7,7 +7,7 @@
   </div>
 <div align=center style="display: inline_block"><br>
 <h1 align="center">MY SKILLS</h1>
-  <img align="center" alt="redicurri-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Luviti-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="redicurri-CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="redicurri-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="redicurri-Python" height="auto" width="auto" src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white">
