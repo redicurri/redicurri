@@ -25,7 +25,8 @@
    <img align="center" alt="Figma" height="auto" width="auto" src="https://img.shields.io/badge/Figma-%235B33A6.svg?&style=for-the-badge&logo=figma&logoColor=black">
   <img align="center" alt="Visual Studio Code" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white">
-  <img align="center" alt="Adobe Photoshop Express" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop%20Express-%23003B70.svg?&style=for-the-badge&logo=adobe%20photoshop%20express&logoColor=white">
+<img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
+
 
 
 
