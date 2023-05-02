@@ -14,6 +14,8 @@
  <img align="center" alt="redi-C++" height="auto" width="auto" src="https://img.shields.io/badge/C++-%230077B5.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img align="center" alt="C#" height="auto" width="auto" src="https://img.shields.io/badge/C%23-%237D3F98.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="PHP" height="auto" width="auto" src="https://img.shields.io/badge/PHP-%234F5B93.svg?&style=for-the-badge&logo=php&logoColor=white">
+<br><br>
+  <img align="center" alt="C" height="auto" width="auto" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
 
 
 </div>
