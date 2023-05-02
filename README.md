@@ -24,7 +24,7 @@
   <img align="center" alt="redicurri-Canva" height="auto" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
    <img align="center" alt="Figma" height="auto" width="auto" src="https://img.shields.io/badge/Figma-%235B33A6.svg?&style=for-the-badge&logo=figma&logoColor=black">
   <img align="center" alt="Visual Studio Code" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white"><br>
+<img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white"><br><br>
 <img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
 
 
