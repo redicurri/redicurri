@@ -11,7 +11,7 @@
   <img align="center" alt="redicurri-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="redicurri-Python" height="auto" width="auto" src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="redicurri-Mysql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
+  <img align="center" alt="redicurri-Cpp" height="auto" width="auto" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white">
 </div>
 
 <div align=center style="display: inline_block"><br>
