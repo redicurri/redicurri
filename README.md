@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5276d8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+REDI;I'M+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5276d8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+REDI;I'M+ FUTURE +DEVELOPER)](https://git.io/typing-svg)
 
 <div align="center">
   </div>
 <div align=center style="display: inline_block"><br>
-<h1 align="center">MY SKILLS</h1>
+<h1 align="center">MY SKILLS (STILL LEANING :)</h1>
   <img align="center" alt="redicurri-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="redicurri-CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="redicurri-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,13 +21,13 @@
 </div>
 
 <div align=center style="display: inline_block"><br>
-<h1 align="center">OTHER</h1>
+<h1 align="center">OTHERS</h1>
     <img  align="center" alt="redicurri-Js" height="auto" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <img align="center" alt="redicurri-Photoshop" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="redicurri-Canva" height="auto" width="auto" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
    <img align="center" alt="Figma" height="auto" width="auto" src="https://img.shields.io/badge/Figma-%235B33A6.svg?&style=for-the-badge&logo=figma&logoColor=black">
   <img align="center" alt="Visual Studio Code" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white"><br><br>
+<img align="center" alt="Visual Studio" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-%5C632.svg?&style=for-the-badge&logo=visual-studio&logoColor=purple&color=white">
 <img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
   <img align="center" alt="XAMPP" height="auto" width="auto" src="https://img.shields.io/badge/XAMPP-%23FFA500.svg?&style=for-the-badge&logo=xampp&logoColor=white">
 <img align="center" alt="SQL Workbench" height="auto" width="auto" src="https://img.shields.io/badge/SQL%20Workbench-%231E90FF.svg?&style=for-the-badge&logo=sql&logoColor=white">
