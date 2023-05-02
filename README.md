@@ -35,8 +35,8 @@
 <img align="center" alt="LaTeX" height="auto" width="auto" src="https://img.shields.io/badge/LaTeX-%23FF0000.svg?&style=for-the-badge&logo=LaTeX&logoColor=white">
 <img align="center" alt="OpenCV" height="auto" width="auto" src="https://img.shields.io/badge/OpenCV-%23008080.svg?&style=for-the-badge&logo=OpenCV&logoColor=white">
   <img align="center" alt="Git" height="auto" width="auto" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
-
-  <p align="centre" style="color:blue;">My repos are private for now :)</p>
+<br><br>
+  <p align="centre">My repos are private for now :)</p>
 
 
 
