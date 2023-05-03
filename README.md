@@ -39,6 +39,12 @@
 <img align="center" alt="Adobe XD" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 <img align="center" alt="Anaconda" height="auto" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 
+<div align=center style="display: inline_block"><br>
+<h1 align="center">LEARNING</h1>
+<img align="center" alt="Android Studio" height="auto" width="auto" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+
+</div>
+
 <br><br>
   <p align="centre">My repos are private for now :)</p>
 
