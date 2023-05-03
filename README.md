@@ -36,6 +36,7 @@
 <img align="center" alt="OpenCV" height="auto" width="auto" src="https://img.shields.io/badge/OpenCV-%23008080.svg?&style=for-the-badge&logo=OpenCV&logoColor=white">
   <img align="center" alt="Git" height="auto" width="auto" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Spline3D" height="auto" width="auto" src="https://img.shields.io/badge/Spline3D-%23B19CD9.svg?&style=for-the-badge&logo=Spline3D&logoColor=white">
+<img align="center" alt="Adobe XD" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 
 <br><br>
   <p align="centre">My repos are private for now :)</p>
