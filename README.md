@@ -35,14 +35,14 @@
 <img align="center" alt="LaTeX" height="auto" width="auto" src="https://img.shields.io/badge/LaTeX-%23FF0000.svg?&style=for-the-badge&logo=LaTeX&logoColor=white">
 <img align="center" alt="OpenCV" height="auto" width="auto" src="https://img.shields.io/badge/OpenCV-%23008080.svg?&style=for-the-badge&logo=OpenCV&logoColor=white">
   <img align="center" alt="Git" height="auto" width="auto" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Spline3D" height="auto" width="auto" src="https://img.shields.io/badge/Spline3D-%23B19CD9.svg?&style=for-the-badge&logo=Spline3D&logoColor=white">
 <img align="center" alt="Adobe XD" height="auto" width="auto" src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 <img align="center" alt="Anaconda" height="auto" width="auto" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 
 <div align=center style="display: inline_block"><br>
 <h1 align="center">LEARNING</h1>
 <img align="center" alt="Android Studio" height="auto" width="auto" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-
+ <img align="center" alt="Spline3D" height="auto" width="auto" src="https://img.shields.io/badge/Spline3D-%23B19CD9.svg?&style=for-the-badge&logo=Spline3D&logoColor=white">
+ <img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
 </div>
 
 <br><br>
