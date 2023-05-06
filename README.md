@@ -45,7 +45,7 @@
 </div>
 
 <br><br>
-  <b><p align="centre">My repos are private for now :)</p></b>
+  <b><p align="centre" style="color:red;">My repos are private for now :)</p></b>
 
 
 
