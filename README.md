@@ -40,7 +40,6 @@
 <div align=center style="display: inline_block"><br>
 <h1 align="center">LEARNING</h1>
 <img align="center" alt="Android Studio" height="auto" width="auto" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
- <img align="center" alt="Spline3D" height="auto" width="auto" src="https://img.shields.io/badge/Spline3D-%23B19CD9.svg?&style=for-the-badge&logo=Spline3D&logoColor=white">
  <img align="center" alt="Qt Creator" height="auto" width="auto" src="https://img.shields.io/badge/Qt%20Creator-%233C871E.svg?&style=for-the-badge&logo=qt&logoColor=white">
 </div>
 
