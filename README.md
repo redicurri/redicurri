@@ -5,7 +5,7 @@
 <div align="center">
   </div>
 <div align=center style="display: inline_block"><br>
-<h1 align="center">MY SKILLS (STILL LEANING :)</h1>
+<h1 align="center">MY SKILLS (STILL LEARNING :)</h1>
   <img align="center" alt="redicurri-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="redicurri-CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="redicurri-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -44,7 +44,7 @@
 </div>
 
 <br><br>
- <p align="center" style="color: red; font-size: 24px;">My repos are private for now :)</p>
+  <b><p align="center">My repos are private for now :)</p></b>
 
 
 
